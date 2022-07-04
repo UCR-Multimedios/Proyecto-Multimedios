@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.75"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="BGmenu.png.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.5"
+     inkscape:cx="447"
+     inkscape:cy="476"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="574.21724"
+       y="962.93913"
+       width="615.13533"
+       height="294.61027"
+       id="rect37763" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28990">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g28986"
+         id="use28992" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath88402">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g88398"
+         id="use88404" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#e56b28;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path41584-7-5-1"
+       cx="418.12659"
+       cy="130.89336"
+       rx="34.110729"
+       ry="31.584608" />
+    <ellipse
+       style="fill:#e57d28;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path41584"
+       cx="418.07352"
+       cy="127.20837"
+       rx="34.110729"
+       ry="31.584608" />
+    <path
+       style="fill:#eb8f34;fill-opacity:1;stroke:none;stroke-width:1.82173;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 1643.7524,376.95972 c -25.3391,48.37017 -50.147,97.02418 -75.2251,145.53318 -11.7435,23.01596 -23.8473,45.90936 -35.3334,69.0193 1.4037,2.21764 4.7348,2.25521 6.9916,3.23572 12.6641,3.39208 25.6999,6.15243 38.8881,5.41064 11.4181,-0.13708 22.9523,-0.43246 34.0095,-3.60608 37.2353,-8.8315 70.7877,-34.57241 86.4476,-69.82094 7.3953,-16.49882 10.8871,-34.78137 9.4429,-52.84258 -1.0266,-25.72972 -12.2541,-50.63027 -29.4763,-69.58529 -9.084,-9.77704 -19.3268,-18.3949 -31.0134,-24.9298 -1.9213,-1.03397 -3.5028,-2.45551 -4.7315,-2.41415 z"
+       id="path47116"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:none;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 435.02931,99.393654 -0.41452,0.803276 -0.003,0.006 -29.10292,56.39656"
+       id="path46997"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 407.97829,116.16485 c -0.142,8.15714 0.0358,15.31561 -0.0151,22.94115 -0.0142,2.12534 2.87728,2.80863 4.75232,1.96474 6.73749,-3.03228 15.88784,-8.06159 22.33941,-11.62863 7.01108,-3.27935 3.56625,-4.3718 1.05293,-5.45694 -5.80427,-2.50602 -20.58166,-9.29921 -23.99141,-10.36385 -1.83722,-0.49531 -4.05082,1.02835 -4.13815,2.54353 z"
+       id="path44561"
+       sodipodi:nodetypes="csscscc" />
+    <ellipse
+       style="fill:#e53628;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path41584-7-5-1-0"
+       cx="357.73654"
+       cy="202.92581"
+       rx="34.111"
+       ry="31.584608"
+       inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\btnPlayPress.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#e57d28;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path41584-9"
+       cx="357.1543"
+       cy="198.71167"
+       rx="34.110729"
+       ry="31.584608"
+       inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\btnPlayPress.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#eb8f34;fill-opacity:1;stroke:none;stroke-width:0.481999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 373.99026,171.24056 c -6.7043,12.79794 -13.26806,25.67098 -19.90331,38.50566 -3.10713,6.08964 -6.30959,12.14685 -9.34862,18.26135 0.37139,0.58675 1.25275,0.59669 1.84986,0.85612 3.35071,0.89749 6.79976,1.62783 10.28914,1.43157 3.02104,-0.0363 6.0728,-0.11443 8.99835,-0.95411 9.85184,-2.33667 18.72924,-9.14729 22.87259,-18.47346 1.95667,-4.36531 2.88055,-9.20257 2.49843,-13.98127 -0.27162,-6.80765 -3.24223,-13.39592 -7.79893,-18.4111 -2.40348,-2.58685 -5.11355,-4.86699 -8.20563,-6.59601 -0.50835,-0.27357 -0.92678,-0.64969 -1.25188,-0.63875 z"
+       id="path47116-0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\btnPlayPress.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 374.11009,170.89696 -0.41452,0.80327 -0.003,0.006 -29.10292,56.39656"
+       id="path46997-8"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\btnPlayPress.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 347.05907,187.66815 c -0.142,8.15714 0.0358,15.31561 -0.0151,22.94115 -0.0142,2.12534 2.87728,2.80863 4.75232,1.96474 6.73749,-3.03228 15.88784,-8.06159 22.33941,-11.62862 7.01108,-3.27935 3.56625,-4.37181 1.05293,-5.45694 -5.80427,-2.50603 -20.58166,-9.29922 -23.99141,-10.36386 -1.83722,-0.4953 -4.05082,1.02836 -4.13815,2.54353 z"
+       id="path44561-6"
+       sodipodi:nodetypes="csscscc"
+       inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\btnPlayPress.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#e53628;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path41584-7-5-1-0-1"
+       cx="161.15764"
+       cy="199.48624"
+       rx="34.111"
+       ry="31.584608"
+       inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\sonido.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#e57d28;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path41584-9-3"
+       cx="160.57539"
+       cy="195.27209"
+       rx="34.110729"
+       ry="31.584608"
+       inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\sonido.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#eb8f34;fill-opacity:1;stroke:none;stroke-width:0.481999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 177.41137,167.80099 c -6.7043,12.79794 -13.26806,25.67098 -19.9033,38.50566 -3.10713,6.08964 -6.3096,12.14685 -9.34862,18.26135 0.37139,0.58675 1.25275,0.59669 1.84986,0.85612 3.3507,0.89749 6.79975,1.62783 10.28913,1.43157 3.02105,-0.0363 6.0728,-0.11443 8.99835,-0.95411 9.85184,-2.33667 18.72925,-9.14729 22.87259,-18.47346 1.95667,-4.36531 2.88056,-9.20257 2.49843,-13.98127 -0.27162,-6.80765 -3.24223,-13.39592 -7.79893,-18.4111 -2.40348,-2.58685 -5.11354,-4.86699 -8.20562,-6.59601 -0.50835,-0.27357 -0.92678,-0.64969 -1.25189,-0.63875 z"
+       id="path47116-0-0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\sonido.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 177.53121,167.45739 -0.41452,0.80327 -0.003,0.006 -29.10292,56.39656"
+       id="path46997-8-4"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\sonido.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g28988"
+       clip-path="url(#clipPath28990)"
+       transform="matrix(2.1044981,0,0,2.0935907,-33.60008,-124.1329)"
+       inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\title.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         inkscape:label="Clip"
+         id="g28986" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.04199px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12605"
+         x="49.876396"
+         y="166.5905"
+         id="text30773"
+         transform="scale(0.9974052,1.0026016)"><tspan
+           sodipodi:role="line"
+           id="tspan30771"
+           style="stroke-width:0.12605"
+           x="49.876396"
+           y="166.5905">c</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.12605"
+           x="49.876396"
+           y="172.89299"
+           id="tspan30775" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.04199px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:11.2604;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12605"
+         x="53.83065"
+         y="168.48166"
+         id="text33545"
+         transform="scale(0.9974052,1.0026016)"><tspan
+           x="53.83065"
+           y="168.48166"
+           id="tspan2338">c</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.12572277,0,0,0.12637777,15.96584,59.291866)"
+         id="text37761"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect37763);fill:#000000;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g88400"
+       clip-path="url(#clipPath88402)">
+      <g
+         inkscape:label="Clip"
+         id="g88398">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.16584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
+           d="m 48.742076,113.45838 c 0,0 42.761769,-39.294002 74.814124,-43.14855 39.89461,-4.797585 74.88739,20.57931 119.22906,24.697001"
+           id="path2921"
+           sodipodi:nodetypes="csc"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.0995397;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 74.034858,66.85586 c -2.473313,0.15156 -4.780371,1.853034 -5.915015,4.142744 -1.004787,2.34626 -0.583751,5.128888 0.499444,7.356959 0.303408,0.593786 1.008049,0.410482 1.406359,0.04221 3.376921,-2.130323 6.772222,-4.255144 10.096866,-6.459805 0.569202,-0.632947 -0.255711,-1.312359 -0.58947,-1.851812 -1.33968,-1.751454 -3.247553,-3.333141 -5.498184,-3.230283 z"
+           id="path18028"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.0995397;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 74.034858,66.85586 c -2.473313,0.15156 -4.780371,1.853034 -5.915015,4.142744 -1.004787,2.34626 -0.583751,5.128888 0.499444,7.356959 0.303408,0.593786 1.008049,0.410482 1.406359,0.04221 3.376921,-2.130323 6.772222,-4.255144 10.096866,-6.459805 0.569202,-0.632947 -0.255711,-1.312359 -0.58947,-1.851812 -1.33968,-1.751454 -3.247553,-3.333141 -5.498184,-3.230283 z"
+           id="path18067"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.0995397;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 74.814396,63.246866 c -3.207555,-0.03874 -6.262401,1.692218 -8.395023,4.137567 -1.710336,2.006921 -2.638439,4.698865 -2.554769,7.392591 -0.03388,3.122082 1.225012,6.085623 2.733425,8.708744 1.599156,2.676271 3.764866,5.177363 6.683207,6.217398 3.524408,1.481901 7.557705,0.419451 10.658908,-1.650624 2.314491,-1.522243 4.439429,-3.468841 5.95149,-5.867682 0.230161,-0.752007 -0.552027,-1.343138 -0.802987,-2.001877 -0.467037,-0.616039 -0.658924,-1.563152 -1.385333,-1.896113 -0.759735,0.0275 -1.059393,0.948115 -1.538694,1.43968 -1.679962,2.204422 -3.894174,4.101409 -6.417754,5.172232 -2.082125,0.883477 -4.554951,0.379756 -6.215818,-1.193469 -0.759054,-0.668744 -1.403132,-1.471283 -1.96448,-2.326459 4.576072,-2.969459 9.224791,-5.822169 13.73906,-8.892894 0.517516,-0.668615 -0.250643,-1.356961 -0.512379,-1.954668 -1.234651,-2.214994 -2.748529,-4.340126 -4.868295,-5.690796 -1.520927,-1.013057 -3.291622,-1.676195 -5.110558,-1.59363 z m -0.703653,4.805692 c 2.043253,0.01203 3.731856,1.552904 4.837957,3.23472 -3.149616,2.063468 -6.330206,4.0815 -9.51599,6.088983 -0.949317,-2.163837 -1.178383,-4.977492 0.364515,-6.90642 1.081311,-1.278901 2.643261,-2.367899 4.313518,-2.417283 z"
+           id="path18106"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0995397;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 74.760651,63.263187 c -3.276595,-0.06588 -6.365361,1.790388 -8.479318,4.331766 -2.373805,2.772594 -2.911271,6.868551 -2.018347,10.392492 0.986757,3.684544 2.943189,7.121074 5.669166,9.670721 1.692934,1.52407 3.86003,2.475369 6.073198,2.704514 1.927479,0.05667 3.884923,-0.194076 5.644899,-1.067792 3.276437,-1.522636 6.186571,-3.987181 8.229119,-7.080266 0.250506,-0.753332 -0.540171,-1.35885 -0.787288,-2.023113 -0.418579,-0.591086 -0.635156,-1.400772 -1.230922,-1.822805 -0.807865,-0.286663 -1.148636,0.75191 -1.586152,1.243272 -1.951738,2.510944 -4.473212,4.721739 -7.487741,5.608408 -1.298647,0.179273 -2.691024,0.167476 -3.85969,-0.534555 -1.387568,-0.740037 -2.459921,-1.977595 -3.359108,-3.286669 4.550952,-3.008513 9.208831,-5.841852 13.727134,-8.901459 0.507367,-0.682592 -0.267795,-1.375302 -0.522346,-1.98486 -1.120901,-2.043907 -2.512451,-3.962584 -4.371069,-5.321325 -1.617933,-1.268347 -3.608922,-2.033445 -5.641535,-1.928329 z m -0.539943,4.773634 c 2.025192,0.05633 3.645044,1.636105 4.761115,3.27613 -3.180694,2.031816 -6.35786,4.07736 -9.557253,6.080231 -0.805032,-1.978441 -1.178165,-4.427365 -0.03591,-6.349988 1.090061,-1.624063 2.862927,-2.957072 4.832088,-3.006373 z"
+           id="path18145"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0995397;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 119.972,45.149526 c -1.32769,0.209991 -2.66483,0.466249 -3.94429,0.895673 -0.67212,0.493932 -0.0989,1.431644 -0.0644,2.117131 1.48328,7.658677 2.84845,15.344007 4.4432,22.978027 0.047,0.565781 0.43761,1.22085 1.05793,0.990243 1.23692,-0.292631 2.55356,-0.376379 3.71738,-0.923952 0.55721,-0.522857 0.0387,-1.350157 0.0157,-1.993555 -1.49573,-7.873908 -2.98189,-15.750695 -4.54951,-23.608867 -0.13759,-0.280997 -0.35364,-0.500209 -0.67601,-0.4547 z"
+           id="path23876"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 175.8564,41.571573 c -0.9348,0.855138 -0.8228,2.454545 -1.32753,3.608827 -2.70837,9.755149 -5.40474,19.518618 -8.08266,29.280281 0.27773,1.262533 1.92733,1.207255 2.85039,1.6665 0.82094,0.420405 2.16544,0.390322 2.28906,-0.81642 1.01544,-3.778586 2.05386,-7.59248 3.16171,-11.316732 3.87153,0.991353 7.89855,2.581326 11.90993,1.398918 4.13125,-0.923474 6.91594,-5.153602 7.44174,-9.378828 0.63447,-3.590366 -1.01384,-7.354268 -3.92654,-9.30139 -3.65939,-2.574033 -8.11732,-3.308572 -12.24413,-4.685823 -0.68427,-0.14432 -1.36749,-0.501379 -2.07197,-0.455333 z m 3.4528,5.842724 c 2.55049,0.895039 5.35001,1.409023 7.55473,3.115268 1.49971,1.078103 2.2829,3.008967 1.91598,4.890133 -0.23929,2.601261 -1.99878,5.43119 -4.72719,5.377825 -2.71991,0.233288 -5.4673,-0.60474 -7.91848,-1.534537 0.98365,-3.954682 1.97797,-8.021783 3.17496,-11.848689 z"
+           id="path23915"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 203.13353,47.956597 c -1.12138,0.220378 -0.91801,1.874412 -1.38445,2.733182 -3.18641,10.639462 -6.38356,21.276434 -9.45577,31.952853 0.002,1.172882 1.54698,1.166242 2.30933,1.5689 0.81775,0.216977 2.31916,0.980516 2.55796,-0.399488 3.44243,-11.286181 6.73062,-22.625992 10.08017,-33.940656 -0.13145,-1.172366 -1.65546,-1.164842 -2.46905,-1.570769 -0.53704,-0.147535 -1.07886,-0.330869 -1.63819,-0.344022 z"
+           id="path23954"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 213.09864,63.030858 c -0.9811,0.160535 -2.58338,-0.260813 -3.04552,0.948438 0.01,1.166781 0.0766,2.448146 0.54203,3.517811 0.73929,0.686204 1.77863,-0.158107 2.66092,0.0434 2.61706,-0.106664 5.89403,-0.255541 7.59867,2.269959 0.95448,1.526202 0.29572,3.417332 -0.0674,5.024484 -4.31945,-0.805106 -8.98897,-2.445347 -13.30852,-0.689622 -3.71519,1.624814 -5.34041,6.701173 -3.94259,10.525192 1.68335,3.6882 5.87978,5.133713 9.51998,5.210026 1.78422,-0.163774 3.47483,-0.927567 4.96571,-1.944655 0.22579,1.109454 -0.47758,2.670396 0.45194,3.437381 1.03897,0.05991 2.2133,1.040705 3.19161,0.412905 1.49095,-5.015163 2.55889,-10.186799 3.81259,-15.281367 0.74051,-2.904448 1.65638,-6.321949 -0.0972,-9.046331 -1.71673,-2.565616 -4.75559,-3.781013 -7.59824,-4.254031 -1.55628,-0.152439 -3.12171,-0.194285 -4.68409,-0.173605 z m -0.65785,14.584109 c 2.49059,0.06493 4.92984,0.581887 7.35371,1.146725 -0.51995,2.506451 -1.49546,5.472764 -4.04819,6.360336 -2.39663,0.727268 -5.44428,0.468976 -7.09823,-1.703365 -1.27773,-2.715264 0.89314,-6.078428 3.79271,-5.803696 z"
+           id="path23993"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 228.33489,66.825407 c -1.2258,0.409261 -0.16881,1.953759 -0.15061,2.849432 1.86207,8.133763 3.9625,16.247553 5.78626,24.364985 -1.17757,2.294247 -2.29773,5.071422 -4.69167,6.209806 -1.60096,0.54303 -3.27541,0.0759 -4.83625,-0.357155 -1.11196,0.385565 -0.61593,2.027555 -0.92327,2.981665 -0.52785,1.3243 0.772,1.67764 1.72405,1.81021 1.97544,0.62928 4.15366,0.5859 6.13924,0.0395 2.5618,-1.18232 4.41924,-3.63123 5.79782,-6.12258 4.79157,-9.253833 9.59478,-18.50705 14.2111,-27.857107 -0.0413,-1.301875 -1.69678,-0.884147 -2.53187,-1.163062 -0.9858,-0.03935 -2.5252,-0.672455 -2.90428,0.740825 -2.99,5.976357 -5.93951,12.013808 -8.72438,18.077009 -1.11186,-6.939492 -2.90779,-13.73514 -4.35968,-20.600822 -0.55102,-0.969866 -1.95369,-0.53957 -2.85819,-0.833732 -0.55804,-0.05595 -1.117,-0.138329 -1.67829,-0.139 z"
+           id="path24032"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 74.14481,62.850481 c -3.505402,-0.09278 -6.602184,2.326804 -8.753854,5.039218 -2.732003,3.793486 -2.464254,9.090634 -0.575228,13.217619 1.925093,4.558888 5.569741,8.910072 10.477399,9.675346 3.302739,0.535365 6.567958,-0.697728 9.294845,-2.591146 2.280334,-1.53714 4.422809,-3.504301 5.807139,-5.968545 0.05469,-1.303973 -0.993509,-2.379098 -1.555312,-3.48358 -0.466615,-1.115532 -1.902915,-1.121581 -2.498183,-0.135784 -2.15923,2.878404 -5.045972,5.67371 -8.640684,6.140165 -2.154969,0.172102 -4.079812,-1.476881 -5.216659,-3.146732 4.306218,-3.1112 8.971033,-5.660794 13.214629,-8.857263 0.816459,-1.044299 -0.497202,-2.229339 -0.880795,-3.172661 -1.727647,-3.119525 -4.520372,-5.80379 -7.909024,-6.659311 -0.917635,-0.101988 -1.843432,-0.0544 -2.764273,-0.05739 z m 0.05558,5.835956 c 1.620196,0.0037 2.99033,1.161579 3.957731,2.429229 -2.766354,1.827362 -5.739521,3.84398 -8.495337,5.343412 -0.670448,-2.124845 -0.621399,-4.820471 1.20254,-6.306581 0.928047,-0.830457 2.087799,-1.481257 3.335066,-1.46606 z"
+           id="path24071"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 47.674298,73.19768 c -3.231149,0.09447 -6.083995,1.914089 -8.558024,3.946025 -2.300544,1.800359 -4.723727,3.46766 -6.854244,5.486181 -0.459115,1.264553 0.918385,2.278032 1.418282,3.298844 5.905557,8.28796 11.909312,16.49878 17.91349,24.70792 1.017095,0.64759 1.811341,-0.9214 2.670017,-1.36811 0.581604,-0.48133 1.696615,-1.10214 1.102986,-2.02666 -2.263011,-3.70288 -4.999755,-7.06196 -7.478274,-10.605614 1.465344,-1.221735 2.958957,-2.405372 4.441477,-3.603838 4.692615,2.001744 9.358555,4.075891 14.078759,6.004007 1.241597,-0.123525 2.104126,-1.388054 3.120459,-2.068503 0.534807,-0.444619 1.796909,-1.33108 0.838783,-2.035031 -4.98483,-2.087841 -10.031005,-4.081397 -15.006502,-6.144926 1.364791,-2.640995 2.129142,-5.93512 0.928492,-8.831785 -1.409201,-3.589182 -4.772131,-6.785951 -8.615701,-6.75851 z m -0.447404,5.362937 c 2.642316,0.261507 4.538184,3.063602 4.790078,5.69859 0.143629,3.354244 -2.909169,5.262189 -5.055553,7.109273 -0.648605,0.284639 -1.424277,1.712525 -1.988341,1.055509 -2.223933,-2.852513 -4.399473,-5.750295 -6.461812,-8.734568 2.180339,-1.797432 4.340957,-3.695995 6.92829,-4.818236 0.574035,-0.204463 1.178987,-0.333463 1.787338,-0.310568 z"
+           id="path24110"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 47.522891,72.727054 c -4.542949,0.06505 -8.030254,3.559492 -11.546602,6.120647 -1.391789,1.279573 -3.276596,2.163719 -4.204052,3.90682 -0.403075,1.652707 1.271785,2.810437 1.945871,4.101475 5.663723,7.871841 11.219494,15.840354 17.158673,23.485654 0.464512,0.83927 1.460284,1.27103 2.203051,0.5343 1.031919,-0.85345 2.536853,-1.55892 2.89638,-2.98746 -0.280571,-1.83543 -1.786291,-3.1604 -2.68592,-4.68842 -1.543754,-2.16369 -3.103966,-4.314294 -4.657982,-6.469842 1.309797,-0.986091 2.500867,-2.176622 3.917991,-2.991027 4.578525,1.871535 9.055782,4.036729 13.689655,5.747147 1.339501,0.217674 2.328793,-1.153424 3.356267,-1.846689 0.753725,-0.680217 2.191787,-1.710535 1.378546,-2.901853 -4.227309,-2.054901 -8.684834,-3.625304 -12.999249,-5.49633 -0.40254,-0.414524 -1.951362,-0.376588 -1.745084,-1.04325 1.499965,-3.300902 1.66198,-7.530554 -0.555142,-10.539855 -1.761249,-2.908301 -4.788089,-5.052253 -8.152403,-4.931317 z m -0.616218,6.475408 c 2.875319,-0.02954 4.871931,3.410654 4.45017,6.185143 -0.664288,2.619806 -3.146556,4.058542 -4.979486,5.716269 -0.648203,0.711051 -1.285915,0.995181 -1.744653,-0.0694 -1.806375,-2.387006 -3.789326,-4.821687 -5.350028,-7.301661 2.196959,-1.642358 4.315915,-3.624972 6.922243,-4.488156 0.232029,-0.03743 0.467503,-0.04124 0.701754,-0.04221 z"
+           id="path24149"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 47.482776,72.199882 c -4.956321,0.185195 -8.779896,4.005189 -12.608633,6.854191 -1.312411,1.230285 -3.232343,2.166157 -3.711691,4.080691 0.162189,1.78775 1.671337,3.032919 2.497604,4.512737 5.537187,7.842046 11.094935,15.682269 17.007232,23.216279 0.692558,1.09028 2.085583,0.98577 2.976916,0.23713 1.168914,-0.87186 3.033807,-1.9784 2.729831,-3.75949 -1.08239,-2.63472 -3.029374,-4.76906 -4.565239,-7.11885 -0.787676,-1.112712 -1.578649,-2.22307 -2.344512,-3.352579 0.973333,-0.894118 1.999547,-1.732419 3.092823,-2.458299 4.625076,1.723814 9.029062,4.100805 13.744176,5.554458 1.654275,0.21767 2.865166,-1.403526 4.071681,-2.335627 0.995229,-0.667055 1.905885,-2.454389 0.716872,-3.376497 -4.246018,-2.144793 -8.726606,-3.76183 -13.0978,-5.608961 -0.46224,-0.248622 -1.508446,-0.250495 -0.953338,-1.075888 1.332883,-3.401527 1.090186,-7.519578 -1.125289,-10.456788 -1.93472,-2.851131 -4.981839,-5.064902 -8.430633,-4.912507 z m -0.650284,7.540503 c 2.552154,0.140689 4.347027,2.996834 3.918739,5.516224 -0.43972,2.093346 -2.38242,3.339394 -3.830315,4.663002 -0.497271,0.338652 -1.021552,0.920836 -1.554403,1.043944 -1.951453,-2.225869 -3.739006,-4.735081 -5.338162,-7.139552 2.109911,-1.525481 4.130292,-3.263001 6.580052,-4.070083 0.074,-0.01249 0.149232,-0.0155 0.224085,-0.01342 z"
+           id="path24188"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 47.485048,71.739191 c -4.744996,0.0012 -8.483568,3.529863 -12.127159,6.262795 -1.613614,1.457953 -3.8029,2.613612 -4.581141,4.817443 -0.294679,2.010997 1.53608,3.448901 2.391856,5.032235 5.511407,7.819747 11.026994,15.653416 16.967356,23.120226 0.781458,1.29413 2.480972,1.58721 3.635418,0.67331 1.36263,-0.95546 3.348014,-2.22483 3.10153,-4.22495 -1.180099,-3.25392 -3.592165,-5.80789 -5.428356,-8.65654 -0.221744,-0.700597 -1.714771,-1.57348 -0.892425,-2.136997 0.738696,-0.529351 1.48401,-1.390437 2.311276,-1.527724 4.480772,1.815809 8.847292,4.035755 13.488213,5.363671 2.040694,0.0997 3.55637,-1.722151 4.938452,-3.053556 0.941767,-0.914613 1.374419,-2.861511 -0.0175,-3.575941 -4.3987,-2.377453 -9.185458,-3.946468 -13.702535,-5.995216 1.138427,-3.557297 1.137075,-7.802312 -1.138667,-10.880226 -2.002604,-3.054811 -5.283328,-5.483767 -8.946411,-5.21853 z m -0.320606,8.642247 c 2.656195,0.452895 4.213635,4.50506 2.098099,6.565791 -1.131322,1.229878 -2.407452,2.379257 -3.760147,3.296438 -1.721613,-1.959367 -3.279903,-4.116789 -4.651912,-6.305393 1.946462,-1.355599 3.818859,-3.177743 6.196243,-3.558425 z"
+           id="path24227"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 73.816645,62.429622 c -2.521964,-0.209715 -4.846947,1.243785 -6.70876,2.889513 -2.108511,1.903109 -3.828862,4.439189 -4.106103,7.418669 -0.655069,5.78197 2.020996,11.618904 6.045221,15.444554 2.863292,2.697575 6.950242,3.961203 10.701308,2.862437 4.0616,-1.054608 7.570685,-3.887181 10.212639,-7.221902 0.815002,-0.96097 1.198741,-2.399031 0.405393,-3.512326 -0.736343,-1.18114 -1.430207,-3.241572 -3.123483,-2.871195 -1.487679,0.413076 -2.114443,2.172652 -3.301534,3.08241 -2.009368,1.948124 -4.618004,4.079777 -7.521648,3.471847 -1.231866,-0.399488 -2.391459,-1.169226 -3.16172,-2.269961 4.287416,-3.002822 8.854076,-5.587174 13.014776,-8.77324 0.559153,-1.354735 -0.560634,-2.75101 -1.132054,-3.904341 -1.88723,-2.925658 -4.50589,-5.61539 -7.780405,-6.618057 -1.181216,4.68e-4 -2.362428,-0.0012 -3.54363,0.0012 z m 0.449666,6.887121 c 1.212042,0.04497 2.233766,0.852852 3.092077,1.681861 -2.441646,1.549904 -4.892484,3.219726 -7.371537,4.625916 -0.38442,-2.020756 -0.0557,-4.535446 1.897108,-5.531356 0.72144,-0.444847 1.528042,-0.818656 2.382352,-0.776421 z"
+           id="path24266"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 74.601298,61.955001 c -1.923787,-0.0532 -3.919444,0.09757 -5.555805,1.282501 -3.617924,2.201516 -6.71201,6.153328 -6.615267,10.745366 -0.22529,6.564764 3.418229,12.933664 8.648254,16.362741 3.928471,2.479002 8.974466,1.841856 12.821265,-0.49035 2.727023,-1.699272 5.451558,-3.804068 7.030957,-6.762688 1.044708,-1.971693 -0.52645,-3.949214 -1.665459,-5.410309 -0.7927,-1.084621 -2.330496,-1.141503 -3.207892,-0.130603 -2.512917,2.326049 -4.850268,5.579219 -8.423791,5.972138 -1.327554,-0.03099 -2.618582,-0.718756 -3.570887,-1.671915 4.102771,-2.867682 8.474601,-5.329878 12.404616,-8.458693 1.114912,-1.273283 -0.07388,-3.046738 -0.694194,-4.266371 -1.943575,-3.215696 -4.776823,-6.118052 -8.281441,-7.233378 -0.963445,0.02058 -1.926902,0.04102 -2.890356,0.06158 z m -0.412953,7.964566 c 0.834953,0.01087 1.553755,0.521064 2.2423,0.956404 -1.919204,1.372338 -4.010231,2.595568 -5.982384,3.799714 -0.143085,-1.730027 0.429718,-3.728925 2.157899,-4.308184 0.490953,-0.256915 1.026408,-0.459735 1.582185,-0.447934 z"
+           id="path24305"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 120.23813,44.112293 c -1.44455,0.219799 -3.04188,0.302161 -4.30482,1.11925 -0.75926,1.111297 0.1833,2.55459 0.19794,3.776838 1.40399,7.380408 2.71547,14.790766 4.27532,22.131976 0.54039,1.532518 2.35607,0.810418 3.45512,0.572899 0.92417,-0.280854 2.67479,-0.395417 2.3698,-1.856596 -1.03178,-6.878691 -2.51028,-13.679777 -3.82789,-20.503979 -0.44124,-1.658465 -0.52853,-3.489748 -1.28051,-5.02498 -0.23697,-0.234766 -0.58307,-0.227478 -0.88497,-0.215403 z"
+           id="path24422"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 119.55676,43.133589 c -1.65398,0.246308 -3.66265,0.247959 -4.88659,1.610192 -0.467,1.499 0.28,3.136192 0.3921,4.663865 1.33087,7.053077 2.54995,14.138665 4.1527,21.129084 0.14469,1.148761 1.18439,1.869809 2.24949,1.59387 1.47807,-0.275686 3.35174,-0.305495 4.35782,-1.640456 0.47703,-1.652998 -0.26167,-3.418778 -0.41521,-5.089569 -1.31579,-7.078067 -2.57764,-14.18019 -4.25979,-21.172416 -0.19653,-0.741806 -0.8728,-1.178236 -1.59052,-1.09457 z"
+           id="path24461"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 140.02376,54.582114 c -1.33084,0.226392 -0.92913,2.089704 -1.1154,3.102713 -0.1611,0.756525 0.0985,1.74879 0.99959,1.655008 3.4659,0.392736 6.95391,0.946204 10.43444,0.965957 0.87445,-0.786011 0.5123,-2.274215 0.7135,-3.361338 0.19204,-0.918413 -0.56546,-1.551742 -1.39737,-1.403126 -3.21297,-0.299746 -6.41759,-0.723535 -9.63476,-0.959214 z"
+           id="path24500"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 140.16269,54.017911 c -1.59253,0.01249 -1.66491,2.080686 -1.77308,3.3029 -0.33069,1.161889 0.35081,2.446676 1.55695,2.515144 3.40134,0.507 6.91241,0.871888 10.28909,1.051954 1.42194,-0.493992 1.14371,-2.502948 1.34146,-3.74238 0.26938,-1.385 -1.07254,-2.174683 -2.20862,-2.1732 -3.06356,-0.359579 -6.14002,-0.626741 -9.2058,-0.954418 z"
+           id="path24539"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 140.2698,53.585513 c -1.3037,-0.1709 -2.09405,1.106814 -2.21121,2.31891 -0.28285,1.347108 -0.6603,3.392389 0.87355,4.06531 2.60504,0.902763 5.41527,0.907808 8.12098,1.265379 1.48818,-0.08131 3.62059,0.671509 4.56562,-0.969532 0.45657,-1.436285 0.50662,-3.103907 0.14044,-4.565005 -0.88971,-1.501164 -2.92788,-1.169182 -4.35449,-1.491803 -2.37471,-0.228497 -4.74782,-0.594562 -7.13488,-0.623259 z"
+           id="path24578"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#ff7f2a;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 141.05825,54.772834 c -1.90599,-0.18665 -2.66387,2.103956 -2.75596,3.718923 -0.26117,1.424026 -0.0357,3.359368 1.56363,3.747528 3.16262,0.866756 6.46714,1.074642 9.71756,1.328039 1.31034,0.03164 3.09343,-0.114342 3.47058,-1.735723 0.35672,-1.631374 0.62542,-3.612764 -0.28844,-5.088991 -1.53741,-1.477716 -3.86337,-1.151469 -5.77506,-1.538862 -1.97139,-0.206083 -3.9485,-0.446507 -5.93233,-0.430689 z"
+           id="path24617"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 175.69289,40.989444 c -1.56035,1.594493 -1.49555,4.137078 -2.27764,6.153962 -2.45657,9.115229 -5.10642,18.184889 -7.42515,27.335989 0.16877,1.564717 2.05223,1.750929 3.19237,2.160859 0.98869,0.291974 2.56979,0.404779 2.79722,-1.001397 1.15779,-3.582499 1.94524,-7.403366 3.18744,-10.855266 4.22861,0.884052 8.76807,2.561657 12.98563,0.692817 4.76047,-2.042925 7.17266,-7.980997 6.37037,-13.13199 -0.76656,-3.619578 -3.60866,-6.267711 -6.7678,-7.62692 -3.72894,-1.688894 -7.7312,-2.557541 -11.60671,-3.784981 -0.15191,0.01897 -0.30382,0.03791 -0.45573,0.0569 z m 4.25259,7.223575 c 2.76997,0.985866 6.10172,1.548673 7.87343,4.277923 1.2291,2.733243 -0.10315,6.575811 -2.85019,7.634474 -2.75454,0.451412 -5.56376,-0.267879 -8.13385,-1.242276 0.87274,-3.597686 1.68212,-7.235415 2.8782,-10.730637 l 0.18812,0.04901 z"
+           id="path24656"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 176.06912,40.376275 c -1.66215,0.381174 -1.99218,2.562996 -2.45076,3.999676 -2.65128,9.746837 -5.4684,19.448679 -7.8898,29.26171 -0.42943,1.060277 -0.0267,2.303488 1.03447,2.717903 1.56138,0.606641 3.49476,1.529481 5.08493,0.570973 1.01529,-1.42287 1.15791,-3.369574 1.75821,-5.012603 0.70019,-2.087371 1.06435,-4.364526 1.98529,-6.314496 2.31121,0.140919 4.57099,1.058757 6.92538,1.143223 3.64261,0.549821 7.51313,-0.880116 9.82644,-3.935178 2.76252,-3.583585 3.79821,-8.976046 1.71162,-13.171009 -2.2462,-4.230105 -6.85059,-5.965716 -11.02632,-7.236535 -2.31522,-0.680693 -4.6363,-1.453349 -6.95946,-2.023664 z m 4.19658,8.518012 c 2.33672,0.901231 5.07756,1.400831 6.77575,3.488358 1.57468,2.52863 0.1624,6.661282 -2.71544,7.258204 -2.31775,0.05667 -4.66984,-0.216053 -6.83329,-1.140751 0.72317,-3.258215 1.60239,-6.501008 2.55798,-9.670715 l 0.18628,0.05619 z"
+           id="path24695"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 178.41836,38.309454 c -2.00303,0.488418 -2.47569,3.026282 -2.95679,4.794789 -2.56881,9.47068 -5.32521,18.891 -7.64194,28.433977 -0.3486,1.252158 -0.40423,3.040214 0.99321,3.585873 1.7014,0.785407 3.84706,1.683662 5.62583,0.684041 1.37039,-1.263096 1.43469,-3.422819 2.09375,-5.106164 0.61534,-1.994046 1.09726,-4.1187 1.84467,-6.021048 3.25328,0.326743 6.48914,1.454444 9.79477,0.941685 4.7414,-0.436565 8.4841,-4.641039 9.5351,-9.36573 1.05168,-4.020495 0.15345,-8.775729 -3.05308,-11.460464 -4.04977,-3.531634 -9.39554,-4.534753 -14.3002,-6.082826 -0.63973,-0.145847 -1.27563,-0.393359 -1.93532,-0.404115 z m 6.29124,10.297028 c 1.77362,0.761246 4.34057,1.414366 4.78932,3.704154 0.39637,2.151588 -0.72119,4.907358 -3.00614,5.126816 -2.00188,0.09898 -3.99773,-0.196136 -5.88701,-0.901055 0.69213,-2.885387 1.43044,-5.759993 2.27411,-8.600827 0.60991,0.223662 1.21982,0.447275 1.82972,0.670912 z"
+           id="path24734"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 203.21681,47.470043 c -1.45584,0.0012 -1.42326,1.959116 -1.89481,2.973669 -3.16408,10.397933 -6.35898,20.791097 -9.23536,31.281545 -0.35593,0.890265 -0.32062,2.099185 0.74984,2.363537 1.28466,0.443693 2.72531,1.415975 4.09853,0.895853 1.02928,-0.945956 1.03997,-2.618164 1.58994,-3.870382 3.08547,-10.400409 6.32018,-20.758814 9.10796,-31.252431 0.0594,-1.553107 -1.88659,-1.660029 -2.90434,-2.120648 -0.49224,-0.143974 -0.99648,-0.285481 -1.51176,-0.271143 z"
+           id="path24773"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 203.22475,46.946051 c -1.62479,-0.05692 -1.94022,1.954906 -2.35052,3.186304 -3.29496,10.670262 -6.53169,21.367391 -9.42386,32.166652 -0.47099,1.405843 0.87701,2.303061 1.97186,2.61629 1.31554,0.497683 3.34623,1.349378 4.37692,-0.124449 2.09474,-5.830129 3.66709,-11.86197 5.50472,-17.788085 1.61973,-5.717494 3.50273,-11.373013 4.72798,-17.201759 0.0574,-1.645144 -1.87595,-2.128599 -3.04739,-2.536332 -0.57409,-0.163519 -1.16022,-0.326625 -1.75971,-0.318528 z"
+           id="path24812"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 203.18083,46.426041 c -1.91463,-0.01665 -2.463,2.368307 -2.93081,3.897273 -3.25626,10.796601 -6.63632,21.5641 -9.43935,32.502083 -0.0477,1.660619 1.81726,2.353165 3.0334,2.836946 1.42283,0.566038 3.69919,0.953221 4.43883,-0.890695 2.55492,-6.950324 4.4264,-14.158044 6.59526,-21.248437 1.21413,-4.502935 2.82953,-8.925024 3.54139,-13.556297 0.39275,-1.740837 -1.40863,-2.610227 -2.6917,-3.004544 -0.82269,-0.276368 -1.67499,-0.547021 -2.54702,-0.536329 z"
+           id="path24851"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 212.43357,62.546683 c -1.15312,-0.08059 -2.88372,0.186074 -2.82255,1.776625 -0.0118,1.287226 0.004,2.750785 0.80016,3.789765 3.03116,0.289714 6.39021,-0.685404 9.13919,1.075056 1.44494,1.068813 1.40265,3.062788 0.90951,4.609783 -0.39687,0.789995 -1.88776,-0.207656 -2.75589,-0.178971 -3.87396,-0.711317 -8.3694,-1.659804 -11.83948,0.8895 -3.24787,2.573185 -4.43659,8.000049 -2.10264,11.620149 2.48149,3.323086 6.91214,4.725898 10.79744,4.012765 1.05073,-0.241637 2.0485,-0.69493 2.97928,-1.255832 0.057,1.063397 -0.25687,2.721262 1.07193,3.045988 1.07897,0.373326 2.85632,1.190137 3.57128,-0.190607 1.64316,-5.45164 2.83792,-11.050095 4.16136,-16.596876 0.43515,-2.206706 0.74888,-4.612988 0.0851,-6.795528 -1.71872,-3.740862 -5.86048,-5.603746 -9.65358,-5.684253 -1.44586,-0.07221 -2.89361,-0.115383 -4.34116,-0.117419 z m 0.22627,15.692608 c 2.18552,0.07666 4.35173,0.453935 6.4843,0.946849 -0.53314,2.222011 -1.53659,4.946257 -3.97819,5.432999 -2.09918,0.603721 -4.86355,0.296668 -6.12394,-1.777804 -0.84064,-2.311029 1.245,-5.087307 3.61783,-4.602044 z"
+           id="path24890"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 212.32836,61.994029 c -1.33314,-0.104742 -3.16681,0.406236 -3.21698,2.106312 -0.0674,1.534896 0.0256,3.297615 1.00949,4.500889 2.67243,0.310184 5.42758,-0.204972 8.02824,0.507263 1.108,0.377768 2.13836,1.32464 1.99211,2.662554 -0.0854,0.499516 0.19624,1.387356 -0.22555,1.669523 -4.11087,-0.592328 -8.47235,-1.944911 -12.54278,-0.376666 -3.43578,1.398607 -5.57087,5.342574 -5.24128,9.163441 -0.19575,3.794515 2.97108,6.707657 6.12965,7.84112 2.79057,1.033558 5.98455,1.088682 8.70049,-0.228543 -0.13759,1.534202 1.06572,2.712057 2.4361,2.920336 1.25807,0.576148 3.07803,0.245315 3.37633,-1.381415 1.6553,-5.471487 2.98448,-11.056461 4.18294,-16.656177 0.21278,-2.113677 0.38882,-4.318551 -0.0142,-6.412094 -1.78273,-4.172734 -6.3625,-6.167592 -10.50864,-6.166037 -1.36747,-0.07641 -2.73602,-0.166989 -4.1061,-0.150497 z m -0.23123,16.841716 c 2.09734,0.09923 4.38955,0.216908 6.33707,0.794753 -0.52903,1.886882 -1.46221,4.017864 -3.50162,4.426027 -1.86841,0.535781 -4.54483,0.284175 -5.4646,-1.765474 -0.27111,-1.635323 0.93045,-3.59492 2.62915,-3.455306 z"
+           id="path24929"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 228.61914,66.331665 c -1.10392,-0.142492 -1.5201,1.123925 -1.16179,2.042722 1.79194,8.577727 3.98426,17.058557 5.95492,25.592548 -1.21336,2.148586 -2.24069,5.006165 -4.71402,5.821214 -1.54518,0.294181 -3.07775,-0.39354 -4.59817,-0.267146 -1.19326,0.665617 -0.92548,2.423647 -1.06247,3.619327 -0.17165,1.01402 0.5296,1.82304 1.48263,1.90883 2.64299,0.77846 5.733,1.04484 8.18721,-0.46745 2.9938,-1.91812 4.73547,-5.226474 6.30633,-8.397696 4.34092,-8.397975 8.75518,-16.763163 12.81425,-25.315612 0.28915,-1.431598 -1.44454,-1.649614 -2.39978,-1.750356 -1.22088,-0.06444 -3.04491,-0.81796 -3.70336,0.740995 -2.96668,5.459025 -5.59375,11.118683 -8.25727,16.746576 -1.26854,-6.430884 -2.59471,-12.867549 -4.33887,-19.174205 -0.91166,-1.089141 -2.57174,-0.795003 -3.81843,-1.06868 -0.22982,-0.01967 -0.46045,-0.03517 -0.69118,-0.03109 z"
+           id="path24968"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 228.6483,65.844311 c -1.11984,-0.152648 -2.0923,0.928172 -1.77599,2.094762 1.73515,8.670512 3.98582,17.21874 5.97407,25.828002 -1.05793,2.023072 -2.07568,4.650581 -4.33474,5.425822 -1.70483,0.207958 -3.58813,-0.601844 -5.17727,0.293056 -0.99804,1.134527 -0.67859,2.901117 -0.70519,4.325697 0.24147,1.83719 2.36035,1.90912 3.72496,2.19869 3.08777,0.44175 6.58707,-0.0828 8.72319,-2.70317 3.47887,-4.129882 5.51684,-9.31738 8.12331,-14.048507 3.01628,-6.011571 6.25464,-11.914028 8.98357,-18.077302 0.62466,-1.18101 -0.52565,-2.304146 -1.60718,-2.39697 -1.60612,-0.20592 -3.69999,-1.068898 -4.96683,0.43161 -2.28431,3.577069 -3.93548,7.565386 -5.87652,11.355272 -0.68401,1.406642 -1.37236,2.813709 -2.08777,4.209535 -1.23123,-5.799328 -2.33712,-11.65652 -4.03155,-17.325898 -0.94778,-1.742452 -3.35125,-1.467769 -4.96606,-1.610599 z"
+           id="path25007"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 118.40089,35.345417 c -1.53826,-0.0801 -3.1613,1.183031 -2.87633,2.939674 0.007,1.696824 1.17565,3.684483 2.99592,3.373282 1.90733,-0.03121 3.15907,-2.223576 2.56064,-4.064101 -0.29856,-1.302986 -1.35238,-2.351436 -2.68023,-2.248855 z"
+           id="path25046"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 118.71541,34.000009 c -2.03695,-0.02198 -3.92952,2.144525 -3.19085,4.285082 0.35792,1.684101 1.70176,3.623356 3.5671,3.115674 2.45374,-0.132106 3.97525,-3.503448 2.54133,-5.59387 -0.57742,-1.126028 -1.67198,-1.899438 -2.91758,-1.806886 z"
+           id="path25085"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#ffdafe;stroke-width:0.19908;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 117.97278,33.281315 c -2.41075,-0.04221 -4.51746,2.974098 -3.33743,5.336202 0.56448,1.690078 1.98596,3.487807 3.88513,3.040856 3.01219,-0.04328 4.70994,-4.247885 2.8699,-6.668519 -0.74006,-1.22482 -2.06467,-1.806626 -3.4176,-1.708539 z"
+           id="path25124"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#ffdafe;stroke-width:0.398159;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 47.446059,71.293246 c -5.903918,0.303702 -10.423451,5.00674 -14.89674,8.535934 -1.986338,1.228885 -2.979394,4.23824 -1.127209,6.083219 6.030298,8.879397 12.16517,17.736931 18.996786,25.953391 2.123891,2.16503 4.640942,-0.57846 6.139466,-2.18434 1.831429,-2.34383 -0.819185,-5.17399 -1.906941,-7.18374 -1.036045,-1.87822 -3.112988,-3.658706 -3.471721,-5.705766 1.489714,-2.139287 3.903885,0.160305 5.67268,0.545197 3.546495,1.133996 6.98815,3.660539 10.80776,3.354459 2.241231,-0.848758 4.530784,-2.954139 4.94867,-5.496314 -0.695876,-2.522328 -3.872794,-2.803426 -5.76032,-3.962243 -2.785303,-1.19761 -5.581891,-2.365517 -8.374094,-3.545615 -0.146608,-3.900135 0.788471,-8.423863 -2.093177,-11.546879 -2.06751,-2.955445 -5.395052,-4.968156 -8.93516,-4.847303 z m -0.161999,9.732032 c 2.501286,0.586325 3.296795,4.512522 1.128721,6.094376 -0.949292,0.60719 -1.797045,2.498642 -3.021292,2.166814 -1.36429,-1.577273 -2.843765,-3.433449 -3.6534,-5.270956 1.545149,-1.410654 3.418399,-2.937275 5.545971,-2.990234 z"
+           id="path25829"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#c8ab37;fill-opacity:1;stroke:#ffdafe;stroke-width:4.40633;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 50.61344,69.722865 c -6.231573,0.302342 -11.085235,5.154565 -15.649977,9.090189 -1.849648,1.359582 -2.499317,4.125621 -0.819095,5.938308 5.819895,8.859734 11.922556,17.571758 18.723489,25.627698 1.394657,1.96797 4.071402,1.77368 5.500551,-0.0361 1.937802,-1.27339 3.024874,-3.93894 1.589758,-6.06807 -1.381126,-2.99404 -3.89503,-5.542974 -5.02665,-8.53673 1.306887,-1.418959 3.251257,0.57381 4.727618,0.746953 3.798703,1.070614 7.559623,4.313107 11.653645,3.132775 2.219509,-1.038665 4.999433,-3.271567 4.732914,-6.105482 C 74.388996,90.768427 70.861587,90.211249 68.274456,88.791781 66.349195,87.716795 63.506669,87.297482 62.1823,85.797493 62.366949,81.449077 62.1998,76.460371 58.766609,73.412834 56.674523,70.992766 53.74938,69.55979 50.61344,69.72262 Z m -0.586695,10.7856 c 2.307982,-0.108465 2.923093,3.460783 1.3301,4.879163 -0.822802,1.306792 -2.682228,2.929751 -3.692765,0.848086 -0.630143,-1.077716 -2.068727,-2.292906 -1.973575,-3.524588 1.191003,-1.110983 2.738322,-2.004309 4.33624,-2.202661 z"
+           id="path26681"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#c8ab37;fill-opacity:1;stroke:#ffdafe;stroke-width:0.398159;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 78.036315,60.524397 c -4.499266,-0.284716 -8.937262,1.82028 -11.574907,5.691411 -4.169096,6.005274 -2.034397,14.645342 2.225946,19.939591 2.808455,3.633887 7.230948,6.029199 11.75555,5.184027 5.434143,-0.506103 10.205875,-4.441376 13.048832,-9.155482 0.913177,-2.494509 -0.989773,-5.385815 -3.062921,-6.479799 -2.955454,-0.151399 -4.638066,3.2265 -6.96312,4.657804 -1.48836,1.6645 -4.848664,2.412767 -6.235607,0.68083 3.814639,-3.144655 8.580677,-5.065264 11.935251,-8.790738 0.997635,-2.603246 -1.471651,-5.008412 -2.897892,-6.885905 -2.17743,-2.338732 -4.935417,-4.884988 -8.231132,-4.841739 z m -1.504959,9.196888 c 1.272094,0.0035 0.80059,0.726157 -0.100691,1.154679 -0.874631,0.301434 -3.077694,2.538076 -3.200695,1.4788 0.06615,-1.806584 1.761042,-2.682831 3.301389,-2.633479 z"
+           id="path26720"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#c8ab37;fill-opacity:1;stroke:#ffdafe;stroke-width:0.398159;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 120.3127,42.655371 c -1.88314,-0.01804 -5.50735,0.53595 -4.82604,3.34382 1.31777,8.43462 2.66398,16.924963 4.91991,25.141166 0.96342,2.186296 3.89345,0.906208 5.53991,0.465848 2.5815,-0.957412 1.53331,-4.291562 1.17112,-6.337265 -1.41135,-7.322059 -2.51403,-14.783914 -4.61558,-21.913585 -0.4702,-0.770601 -1.43603,-0.690833 -2.18932,-0.699984 z"
+           id="path26798"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#c8ab37;fill-opacity:1;stroke:#ffdafe;stroke-width:0.398159;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 117.71642,31.490304 c -3.40193,-0.07746 -5.12747,4.46514 -3.08107,7.127213 1.57336,3.129164 6.64576,2.606653 7.45516,-0.935692 1.41942,-2.822741 -1.46753,-6.68588 -4.37409,-6.191521 z"
+           id="path26837"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ffdafe;stroke-width:0.398159;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 205.11047,47.200476 c -2.921,0.603642 -2.85229,4.658403 -3.9225,6.936267 -2.9088,9.77929 -6.19622,19.474384 -8.42153,29.453928 -0.58094,3.058388 3.04971,3.833354 5.15761,4.210218 3.00976,0.427525 3.31087,-3.495719 4.20754,-5.573567 3.24862,-10.266957 6.72707,-20.520318 8.88065,-31.113643 0.1752,-2.882208 -3.90054,-3.692901 -5.90177,-3.913203 z"
+           id="path27239"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ffdafe;stroke-width:0.398159;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 215.132,60.230146 c -1.90254,-0.06824 -4.79199,0.130163 -4.73369,2.831741 -0.35125,2.118236 0.65004,4.950384 3.13486,4.538314 2.47408,0.456405 5.67637,-0.465802 7.60128,1.610222 0.4193,0.787124 0.81926,2.481135 -0.67526,1.963767 -4.8597,-0.537524 -10.93364,-2.059574 -14.67873,2.325311 -3.00072,3.727779 -3.5585,10.249786 0.56778,13.361723 2.98223,2.894475 7.51377,3.168125 11.31523,2.444767 1.10894,-0.609803 1.00672,1.579032 2.01748,1.890456 1.66465,1.346834 4.67779,1.189421 5.20455,-1.329854 2.09001,-6.597202 3.92827,-13.416405 4.48764,-20.362325 0.14989,-5.525372 -5.24367,-8.895813 -9.96168,-9.044002 -1.42056,-0.16405 -2.85025,-0.247203 -4.27946,-0.230023 z m -0.61395,17.695365 c 1.59484,0.150935 3.74436,0.1749 4.9358,0.845739 -0.54936,2.298555 -2.56066,3.77062 -4.81619,3.408311 -1.73589,0.232747 -3.87796,-1.462442 -2.54057,-3.343821 0.48214,-0.881262 1.57283,-0.909596 2.42096,-0.910229 z"
+           id="path27356"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ffdafe;stroke-width:0.398159;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           d="m 231.40714,65.584598 c -1.49585,-0.276578 -3.32159,0.955514 -2.4944,2.689249 1.55065,8.676718 3.68989,17.253568 5.69585,25.83794 -1.24065,2.42832 -3.12447,5.404038 -6.17808,4.778014 -1.74276,-0.347533 -4.05841,0.471499 -3.96452,2.693229 -0.44052,2.14373 0.50783,4.60661 2.81157,4.84889 3.76506,0.62204 8.46604,0.37782 10.7982,-3.31992 5.62892,-8.12962 9.59889,-17.369875 14.22054,-26.141642 0.80496,-2.293356 2.85842,-4.519919 2.51123,-7.071963 -1.04624,-1.961777 -3.72843,-1.701149 -5.58535,-1.79018 -2.80615,1.313848 -3.5895,5.007687 -5.21731,7.491129 -1.29997,2.572829 -2.52807,5.186514 -3.89423,7.722118 -1.54056,-5.368654 -1.94175,-11.193566 -4.31959,-16.252457 -0.97105,-1.410379 -2.89433,-1.422808 -4.38391,-1.484407 z"
+           id="path27395"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.04199px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:3.35899;fill:#007a00;fill-opacity:1;stroke:none;stroke-width:0.12605"
+           x="143.8298"
+           y="122.7538"
+           id="text53631"
+           transform="matrix(2.0990373,0,0,2.0990374,-33.60008,-124.1329)" />
+        <path
+           style="fill:#c8ab37;fill-opacity:1;stroke:none;stroke-width:0.874732;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           d="m 96.395052,51.18871 c -7.127118,2.648989 -10.004478,11.603941 -6.380732,18.004994 2.061537,5.975372 8.310338,11.410882 15.17041,9.548183 3.3977,-1.142983 8.39934,-2.13615 9.40235,-5.98502 0.59535,-3.005884 -3.42002,-6.625144 -5.98227,-3.699069 -2.5352,2.132358 -7.51109,3.106349 -9.182889,-0.555409 -1.607117,-2.850175 -4.250367,-7.697346 -0.179421,-9.754384 2.66114,-1.41124 8.25254,-2.120383 7.49565,-6.158954 -0.39422,-3.512203 -4.71522,-3.518872 -7.29521,-2.406182 -1.034078,0.282638 -2.060201,0.597447 -3.047853,1.005938 z"
+           id="path84129"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#c8ab37;fill-opacity:1;stroke:none;stroke-width:0.222825;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           d="m 102.64316,49.427764 c -2.797519,0.200218 -5.474519,1.259835 -7.957605,2.487144 -3.202375,1.65943 -5.270562,4.941743 -6.055726,8.343853 -0.421365,2.825969 -0.349269,5.832121 0.968069,8.43835 1.276013,3.141758 3.121595,6.175073 5.971518,8.167741 2.700744,2.002707 6.330564,2.996211 9.625854,1.952399 2.88417,-0.885655 6.04136,-1.654072 8.25194,-3.810935 1.39885,-1.311642 1.738,-3.572618 0.56808,-5.133579 -0.92736,-1.416898 -2.87971,-2.649939 -4.55356,-1.655239 -1.16541,0.806404 -2.23404,1.813226 -3.65998,2.176535 -1.47274,0.51025 -3.1943,0.535083 -4.61373,-0.130182 -1.608856,-1.066086 -2.177551,-3.025656 -3.048188,-4.63884 -0.940795,-1.849952 -1.474413,-4.450057 0.186359,-6.073109 2.353269,-1.751018 5.628719,-2.006295 7.759059,-4.099558 1.04416,-0.995448 0.84192,-2.5767 0.52802,-3.835769 -0.51821,-1.592798 -2.42092,-2.228077 -3.97011,-2.188811 z"
+           id="path87828"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#2b0000;fill-opacity:1;stroke:none;stroke-width:0.222825;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           d="m 102.43271,49.184239 c -3.469104,0.302427 -6.883658,1.546391 -9.71552,3.543149 -3.118108,2.435466 -5.007744,6.401289 -4.734682,10.330541 -0.119081,2.282978 0.460919,4.529803 1.48621,6.567857 1.877949,4.248982 5.257082,8.222303 9.961963,9.460669 1.739129,0.394512 3.586129,0.284989 5.332269,-0.01149 2.86603,-0.899683 5.92825,-1.709357 8.24942,-3.687806 1.61966,-1.304851 2.1935,-3.753697 1.00292,-5.514421 -0.96103,-1.68796 -3.34397,-2.907042 -5.15327,-1.726609 -1.6747,1.023351 -3.40897,2.426398 -5.5074,2.207653 -1.29527,0.09895 -2.76684,-0.259769 -3.378959,-1.507544 -1.312971,-2.166836 -2.885744,-4.53726 -2.662538,-7.148632 0.236425,-1.835315 2.021536,-2.852118 3.628747,-3.412507 1.91832,-0.850358 4.20072,-1.504212 5.42697,-3.31322 0.93712,-1.925644 0.27724,-4.846883 -2.0058,-5.501573 -0.61874,-0.210302 -1.27712,-0.295799 -1.93033,-0.286056 z"
+           id="path87906"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#c8ab37;fill-opacity:1;stroke:none;stroke-width:0.222825;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           d="m 104.77563,49.12173 c -3.21766,0.276993 -6.345614,1.438085 -9.092007,3.086372 -3.005046,2.083751 -4.988167,5.583589 -5.265265,9.183786 -0.176249,2.448093 0.03542,4.962054 1.125647,7.204164 1.577199,3.852259 4.142234,7.549077 8.048119,9.391936 2.486336,1.253607 5.455056,1.542341 8.105346,0.622701 2.89445,-0.918348 6.08101,-1.765476 8.18961,-4.064285 1.38463,-1.576118 1.23734,-4.21213 -0.30973,-5.639174 -1.06812,-1.204259 -3.04246,-1.849302 -4.4232,-0.76053 -1.58639,1.129448 -3.31642,2.291824 -5.3524,2.247333 -1.30942,0.05344 -2.85237,-0.216506 -3.50943,-1.485374 -1.28486,-1.998013 -2.631301,-4.142789 -2.836568,-6.551012 -0.164231,-1.618135 0.865548,-3.168398 2.401528,-3.737936 2.25801,-1.160948 5.10175,-1.636024 6.70644,-3.747754 0.75084,-1.389673 0.54826,-3.280412 -0.43889,-4.51151 -0.82483,-0.914028 -2.14699,-1.249554 -3.3492,-1.238717 z"
+           id="path87867"
+           inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\Title.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+      </g>
+    </g>
+    <path
+       style="fill:#ffffff;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+       d="m 160.54937,179.43711 c -2.34889,0.89838 -3.89599,3.16132 -5.80599,4.72033 -1.50036,1.25427 -2.80276,3.00423 -4.42491,3.95355 -2.90493,0.17473 -5.9219,-0.34264 -8.76897,0.27854 -1.08089,1.0451 -0.54231,2.86612 -0.80047,4.21266 0.0258,3.12989 -0.29019,6.37157 0.44029,9.43044 0.95746,1.11872 2.76258,0.412 4.03024,0.64466 1.77108,0.12585 3.7403,-0.24959 5.38794,0.18347 3.26658,2.91869 6.19986,6.2945 9.79511,8.80694 1.78278,-0.20195 1.33236,-2.5076 1.45934,-3.7481 0.047,-9.00836 0.2408,-18.03075 -0.12609,-27.03194 -0.0206,-0.65051 -0.44013,-1.47962 -1.18649,-1.45055 z"
+       id="path1179"
+       inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\sonido.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;stroke-width:0.755906;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+       d="m 631.86231,707.50488 c -4.41392,0.074 -6.75264,5.67325 -4.3877,9.18848 3.91525,7.01418 5.92369,14.97732 5.33469,23.01531 0.0449,6.82925 -2.72773,13.19402 -5.52707,19.28157 -1.84491,3.53625 0.52045,8.44075 4.64648,8.54199 4.48025,0.0663 5.85485,-5.26123 7.61129,-8.42624 6.98994,-15.84362 5.97182,-35.3978 -3.69234,-49.90677 -0.96823,-1.13999 -2.5013,-1.75201 -3.98535,-1.69434 z"
+       id="path1218"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\sonido.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;stroke-width:0.755906;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+       d="m 646.19141,691.39551 c -4.33122,0.39129 -6.37859,5.83851 -4.08106,9.32715 11.51054,17.46942 14.13118,40.07091 6.8086,59.625 -1.73902,5.89943 -5.81606,10.78439 -7.57813,16.63086 -1.1846,4.59164 5.37558,8.97197 8.67871,4.97265 6.89275,-8.39047 10.58625,-19.04408 12.70595,-29.58136 3.32534,-17.27474 0.72808,-35.53609 -7.31644,-51.18461 -2.15559,-3.5979 -4.23586,-9.59451 -9.21763,-9.78969 z"
+       id="path1257"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\sonido.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;stroke-width:0.755906;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+       d="m 659.79981,676.74902 c -4.64754,0.10677 -6.97462,6.21564 -4.02247,9.66407 8.48362,12.6567 14.49923,27.24046 15.70505,42.51928 2.08639,20.61303 -3.3898,41.86134 -15.28708,58.80494 -2.26502,2.52984 -2.28728,6.44877 0.18457,8.8457 2.4153,2.46549 6.55692,1.51194 8.25782,-1.31348 24.13021,-32.86277 24.58612,-81.02849 0.98828,-114.30469 -1.36015,-2.07089 -3.04971,-4.36638 -5.82617,-4.21582 z"
+       id="path1296"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\sonido.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#e53628;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path41584-7-5-1-0-1-8"
+       cx="70.934746"
+       cy="197.63416"
+       rx="34.111"
+       ry="31.584608"
+       inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\sonidoMute.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#e57d28;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path41584-9-3-8"
+       cx="70.352501"
+       cy="193.42001"
+       rx="34.110729"
+       ry="31.584608"
+       inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\sonidoMute.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#eb8f34;fill-opacity:1;stroke:none;stroke-width:0.481999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 87.188473,165.9489 c -6.7043,12.79794 -13.26806,25.67098 -19.9033,38.50566 -3.10714,6.08964 -6.3096,12.14685 -9.34863,18.26135 0.37139,0.58675 1.25275,0.59669 1.84986,0.85612 3.3507,0.89749 6.79975,1.62783 10.28914,1.43157 3.02105,-0.0363 6.07279,-0.11443 8.99834,-0.95411 9.85184,-2.33667 18.72925,-9.14729 22.872587,-18.47346 1.95667,-4.36531 2.88056,-9.20257 2.49844,-13.98127 -0.27163,-6.80765 -3.24224,-13.39592 -7.798937,-18.4111 -2.40348,-2.58685 -5.11354,-4.86699 -8.20562,-6.59601 -0.50835,-0.27357 -0.92678,-0.64969 -1.25188,-0.63875 z"
+       id="path47116-0-0-5"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\sonidoMute.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 87.308303,165.6053 -0.41452,0.80327 -0.003,0.006 -29.10292,56.39656"
+       id="path46997-8-4-7"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\sonidoMute.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+       d="m 70.326463,177.58502 c -2.34889,0.89838 -3.89599,3.16132 -5.80599,4.72033 -1.50036,1.25427 -2.80276,3.00423 -4.42491,3.95355 -2.90493,0.17473 -5.9219,-0.34264 -8.76897,0.27854 -1.08089,1.0451 -0.5423,2.86612 -0.80047,4.21266 0.0258,3.12989 -0.29019,6.37157 0.44029,9.43044 0.95747,1.11872 2.76258,0.412 4.03024,0.64466 1.77109,0.12585 3.7403,-0.24959 5.38794,0.18347 3.26659,2.91869 6.19986,6.2945 9.79512,8.80694 1.78278,-0.20195 1.33236,-2.5076 1.45934,-3.7481 0.047,-9.00836 0.24079,-18.03075 -0.1261,-27.03194 -0.0206,-0.65051 -0.44013,-1.47962 -1.18649,-1.45055 z"
+       id="path1179-7"
+       inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\sonidoMute.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;stroke-width:0.523147;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+       d="m 77.461985,182.64902 c -1.730612,0.11345 -2.832638,2.35721 -1.402529,3.6406 1.879396,2.43196 4.200024,4.46639 6.298958,6.69608 -2.195517,2.5864 -5.210501,4.59995 -6.860909,7.60369 -0.548295,1.66182 1.31841,3.46937 2.858767,2.83574 2.664859,-1.99887 4.785195,-4.75607 7.400706,-6.72808 2.727663,2.03481 4.672668,5.12912 7.64106,6.78863 1.861082,0.3425 3.451075,-1.81973 2.280705,-3.44739 -1.908939,-2.6047 -4.415928,-4.68979 -6.595712,-7.05259 2.260685,-2.68942 5.505723,-4.75939 6.971689,-8.04116 0.170494,-1.89678 -2.644084,-2.97647 -3.900089,-1.55597 -2.322478,1.85242 -4.283155,4.11816 -6.427195,6.17085 -2.655114,-2.22027 -4.665075,-5.55958 -7.941171,-6.88728 -0.106783,-0.0176 -0.216019,-0.0271 -0.32428,-0.0231 z"
+       id="path1859"
+       inkscape:export-filename="C:\Users\samue\OneDrive\Escritorio\GameMenu\static\img\sonidoMute.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
